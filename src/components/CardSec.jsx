@@ -24,13 +24,13 @@ export default function CardSec() {
 
     useEffect(() => {
 
-        let url = "http://localhost:3000/products"
+        let url = "/public/products.json"
 
         axios.get(url)
 
             .then((res) => {
 
-                setProducts(res.data);
+                setProducts(res.data.products);
 
             })
 

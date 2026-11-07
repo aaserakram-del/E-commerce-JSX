@@ -11,10 +11,15 @@ const ProductDetails = ({ cart, setCart }) => {
     useEffect(() => {
 
         axios
-            .get(`http://localhost:3000/products/${id}`)
+            .get("/products.json")
             .then((res) => {
 
-                setProduct(res.data);
+                const product = res.data.products.find((item) => {
+                    return item.id === Number(id);
+                });
+
+
+                setProduct(product);
 
             })
             .catch((err) => {

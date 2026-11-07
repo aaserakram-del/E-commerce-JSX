@@ -17,10 +17,10 @@ const Shope = () => {
     useEffect(() => {
 
         axios
-            .get("http://localhost:3000/products")
+            .get("/products.json")
             .then((res) => {
 
-                setProducts(res.data);
+                setProducts(res.data.products);
 
             })
             .catch((err) => {
