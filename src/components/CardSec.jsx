@@ -24,7 +24,7 @@ export default function CardSec() {
 
     useEffect(() => {
 
-        let url = "/public/products.json"
+        let url = "/products.json"
 
         axios.get(url)
 
