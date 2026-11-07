@@ -1,0 +1,292 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Oversized Black T-Shirt",
+      "category": "T-Shirts",
+      "price": 120,
+      "originalPrice": 160,
+      "rating": 4.8,
+      "reviews": 124,
+      "image": "/images/BlackT-Shirt.jpg",
+      "discountPercentage": 25
+    },
+    {
+      "id": 2,
+      "title": "White Essential T-Shirt",
+      "category": "T-Shirts",
+      "price": 110,
+      "rating": 4.7,
+      "reviews": 98,
+      "image": "/images/white-tshirt.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Graphic Print T-Shirt",
+      "category": "T-Shirts",
+      "price": 150,
+      "originalPrice": 190,
+      "rating": 4.6,
+      "reviews": 86,
+      "image": "/images/Graphic-TShirt.jpg",
+      "discountPercentage": 21
+    },
+    {
+      "id": 4,
+      "title": "Striped Sleeve T-Shirt",
+      "category": "T-Shirts",
+      "price": 130,
+      "rating": 4.5,
+      "reviews": 75,
+      "image": "/images/striped-tshirt.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Classic Blue Denim Jeans",
+      "category": "Jeans",
+      "price": 240,
+      "rating": 4.6,
+      "reviews": 210,
+      "image": "/images/blue-jeans.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Black Skinny Jeans",
+      "category": "Jeans",
+      "price": 260,
+      "originalPrice": 320,
+      "rating": 4.8,
+      "reviews": 180,
+      "image": "/images/black-jeans.jpg",
+      "discountPercentage": 19
+    },
+    {
+      "id": 7,
+      "title": "Relaxed Fit Jeans",
+      "category": "Jeans",
+      "price": 280,
+      "rating": 4.7,
+      "reviews": 120,
+      "image": "/images/relaxed-jeans.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Beige Cargo Pants",
+      "category": "Pants",
+      "price": 250,
+      "rating": 4.5,
+      "reviews": 90,
+      "image": "/images/beige-cargo.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Black Cargo Pants",
+      "category": "Pants",
+      "price": 270,
+      "originalPrice": 330,
+      "rating": 4.8,
+      "reviews": 145,
+      "image": "/images/black-cargo.jpg",
+      "discountPercentage": 18
+    },
+    {
+      "id": 10,
+      "title": "Classic White Shirt",
+      "category": "Shirts",
+      "price": 180,
+      "rating": 4.9,
+      "reviews": 200,
+      "image": "/images/classwhite-shirt.jpg"
+    },
+    {
+      "id": 11,
+      "title": "Checked Casual Shirt",
+      "category": "Shirts",
+      "price": 190,
+      "rating": 4.6,
+      "reviews": 84,
+      "image": "/images/Checked-Casual-Shirt.jpg"
+    },
+    {
+      "id": 12,
+      "title": "Black Formal Shirt",
+      "category": "Shirts",
+      "price": 220,
+      "originalPrice": 280,
+      "rating": 4.7,
+      "reviews": 112,
+      "image": "/images/Formal-black-shirt.jpg",
+      "discountPercentage": 21
+    },
+    {
+      "id": 13,
+      "title": "Grey Oversized Hoodie",
+      "category": "Hoodies",
+      "price": 320,
+      "rating": 4.8,
+      "reviews": 165,
+      "image": "/images/Grey-Hoodie.jpg"
+    },
+    {
+      "id": 14,
+      "title": "Black Street Hoodie",
+      "category": "Hoodies",
+      "price": 350,
+      "originalPrice": 420,
+      "rating": 4.9,
+      "reviews": 230,
+      "image": "/images/Black-Hoodie.jpg",
+      "discountPercentage": 17
+    },
+    {
+      "id": 15,
+      "title": "Cream Hoodie",
+      "category": "Hoodies",
+      "price": 300,
+      "rating": 4.6,
+      "reviews": 98,
+      "image": "/images/Cream-Hoodie.jpg"
+    },
+    {
+      "id": 16,
+      "title": "Brown Leather Jacket",
+      "category": "Jackets",
+      "price": 550,
+      "rating": 4.8,
+      "reviews": 76,
+      "image": "/images/Brown-Jacket.jpg"
+    },
+    {
+      "id": 17,
+      "title": "Black Bomber Jacket",
+      "category": "Jackets",
+      "price": 480,
+      "originalPrice": 600,
+      "rating": 4.7,
+      "reviews": 130,
+      "image": "/images/Black-Jacket.jpg",
+      "discountPercentage": 20
+    },
+    {
+      "id": 18,
+      "title": "Denim Jacket",
+      "category": "Jackets",
+      "price": 420,
+      "rating": 4.6,
+      "reviews": 88,
+      "image": "/images/Denim-Jacket.jpg"
+    },
+    {
+      "id": 19,
+      "title": "Grey Sweatshirt",
+      "category": "Sweatshirts",
+      "price": 230,
+      "rating": 4.5,
+      "reviews": 70,
+      "image": "/images/Grey-Sweatshirt.jpg"
+    },
+    {
+      "id": 20,
+      "title": "Black Sweatshirt",
+      "category": "Sweatshirts",
+      "price": 240,
+      "originalPrice": 300,
+      "rating": 4.7,
+      "reviews": 150,
+      "image": "/images/Black-Sweatshirt.jpg",
+      "discountPercentage": 20
+    },
+    {
+      "id": 21,
+      "title": "White Sneakers",
+      "category": "Shoes",
+      "price": 380,
+      "rating": 4.9,
+      "reviews": 300,
+      "image": "/images/white-sneakers.jpg"
+    },
+    {
+      "id": 22,
+      "title": "Black Running Shoes",
+      "category": "Shoes",
+      "price": 420,
+      "rating": 4.8,
+      "reviews": 220,
+      "image": "/images/Black-Running-Shoes.jpg"
+    },
+    {
+      "id": 23,
+      "title": "Classic Cap",
+      "category": "Accessories",
+      "price": 80,
+      "rating": 4.5,
+      "reviews": 60,
+      "image": "/images/classic-cap.jpg"
+    },
+    {
+      "id": 24,
+      "title": "Leather Belt",
+      "category": "Accessories",
+      "price": 100,
+      "rating": 4.6,
+      "reviews": 55,
+      "image": "/images/leather-belt.jpg"
+    },
+    {
+      "id": 25,
+      "title": "Minimal Watch",
+      "category": "Accessories",
+      "price": 300,
+      "rating": 4.7,
+      "reviews": 90,
+      "image": "/images/watch.jpg"
+    },
+    {
+      "id": 26,
+      "title": "Summer Linen Shirt",
+      "category": "Shirts",
+      "price": 200,
+      "rating": 4.8,
+      "reviews": 100,
+      "image": "/images/linen-shirt.jpg"
+    },
+    {
+      "id": 27,
+      "title": "Brown Casual Pants",
+      "category": "Pants",
+      "price": 260,
+      "rating": 4.6,
+      "reviews": 82,
+      "image": "/images/brown-pants.jpg"
+    },
+    {
+      "id": 28,
+      "title": "Oversized Green T-Shirt",
+      "category": "T-Shirts",
+      "price": 140,
+      "rating": 4.7,
+      "reviews": 105,
+      "image": "/images/green-tshirt.jpg"
+    },
+    {
+      "id": 29,
+      "title": "Winter Wool Coat",
+      "category": "Coats",
+      "price": 700,
+      "originalPrice": 850,
+      "rating": 4.9,
+      "reviews": 170,
+      "image": "/images/wool-coat.jpg",
+      "discountPercentage": 18
+    },
+    {
+      "id": 30,
+      "title": "Premium Black Suit",
+      "category": "Formal",
+      "price": 900,
+      "rating": 5,
+      "reviews": 250,
+      "image": "/images/black-suit.jpg"
+    }
+  ]
+}
